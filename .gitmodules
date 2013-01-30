@@ -1,0 +1,6 @@
+[submodule "submodules/ViewPagerIndicator"]
+	path = submodules/ViewPagerIndicator
+	url = git://github.com/JakeWharton/Android-ViewPagerIndicator.git
+[submodule "submodules/PullToRefresh"]
+	path = submodules/PullToRefresh
+	url = git://github.com/chrisbanes/Android-PullToRefresh.git
